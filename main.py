@@ -16,3 +16,4 @@ plt.text(2, 19.5, 'X2 <= 19',fontsize=10)
 plt.text(27, 5, '4X1 + 5X2 <= 141',fontsize=10)
 plt.grid()
 plt.show()
+#номер группы: 8
