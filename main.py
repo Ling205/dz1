@@ -7,7 +7,7 @@ plt.ylabel('Кол-во AUDI (X2)')
 plt.xlim(0,70)
 plt.ylim(0,50)
 plt.plot([0, 60], [40, 0]) #график 1
-plt.plot([0, 25], [19, 19])
+plt.plot([0, 10], [19, 19]) #график 2
 plt.plot([17, 17], [0, 25])
 plt.plot([0, 5], [22/5, 0])
 plt.arrow(0, 0, 3, 5, width= 0.27)
