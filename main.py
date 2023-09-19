@@ -9,7 +9,7 @@ plt.ylim(0,50)
 plt.plot([0, 60], [40, 0]) #график 1
 plt.plot([0, 10], [19, 19]) #график 2
 plt.plot([20, 17], [0, 25]) #график 3
-plt.plot([0, 5], [22/5, 0])
+plt.plot([0, 7], [7, 0]) #график 4
 plt.arrow(0, 0, 3, 5, width= 0.27)
 plt.text(1.5, 1, 'Z(3,4)',fontsize=10)
 plt.text(17.5, 2, 'X1 <= 17',fontsize=10)
